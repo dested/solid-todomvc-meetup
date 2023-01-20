@@ -1,0 +1,5 @@
+npx degit solidjs/templates/ts my-solid-app
+cd my-solid-app
+pnpm install
+
+https://github.com/dested/solid-todomvc-meetup
